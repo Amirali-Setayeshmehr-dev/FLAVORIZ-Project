@@ -25,7 +25,7 @@ Feel free to reach out or follow me on social media:
 
 ● Linkedin: https://www.linkedin.com/in/amirali-setayeshmehr-8a126b37b/
 
-● Githab: Amirali-setayeshmehr-dev
+● Githab: [Amirali-setayeshmehr-dev](https://github.com/Amirali-setayeshmehr-dev)
 
 ● Mail: setayeshmehr@gmail.com
 
