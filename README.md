@@ -32,14 +32,19 @@ Feel free to reach out or follow me on social media:
 💡 Template inspired by: (https://flavoriz.framer.website/)
 
 ## 📷 Preview | Screenshots
-<img width="1328" height="616" alt="Image" src="https://github.com/user-attachments/assets/2f0e47ff-011c-48a5-b964-20a473c9343a" />
-<img width="1332" height="616" alt="Image" src="https://github.com/user-attachments/assets/6bf8e77c-5e9f-4af9-bd6d-9c6705617d78" />
-<img width="1316" height="620" alt="Image" src="https://github.com/user-attachments/assets/13e18dfc-d516-4210-8984-2754ec3dabe2" />
-<img width="1306" height="624" alt="Image" src="https://github.com/user-attachments/assets/9160bd9c-91f5-4fa0-a173-44f7a0febaaf" />
-<img width="1304" height="614" alt="Image" src="https://github.com/user-attachments/assets/366e5829-7b0b-4da7-a286-1a71e2498870" />
-<img width="1337" height="622" alt="Image" src="https://github.com/user-attachments/assets/ff060f78-c5f6-4a99-bed2-0affb79b4565" />
-<img width="1330" height="632" alt="Image" src="https://github.com/user-attachments/assets/1743e4ff-e882-4285-bcd1-19a1fd93876d" />
-<img width="1341" height="632" alt="Image" src="https://github.com/user-attachments/assets/a2fe5f01-eb5b-48ed-8267-b39e18f5a303" />
+<img width="1338" height="618" alt="Image" src="https://github.com/user-attachments/assets/695df170-b3a6-40cb-b020-e0442114c377" />
+
+<img width="1310" height="496" alt="Image" src="https://github.com/user-attachments/assets/75eafb36-0d87-487c-8233-0aa61bc35a3a" />
+
+<img width="1332" height="553" alt="Image" src="https://github.com/user-attachments/assets/0078dfa6-e734-49f9-8857-dc308267ae4a" />
+
+<img width="1264" height="536" alt="Image" src="https://github.com/user-attachments/assets/dfcfd7f9-2b1f-4115-bc6f-f39c7a2ee44f" />
+
+<img width="1326" height="564" alt="Image" src="https://github.com/user-attachments/assets/8840903d-67c7-4fdd-a488-26286daa3ead" />
+
+<img width="1242" height="536" alt="Image" src="https://github.com/user-attachments/assets/cc62bcef-61f0-4788-ae44-17f0cba989cd" />
+
+<img width="1232" height="387" alt="Image" src="https://github.com/user-attachments/assets/b740a4f4-32b2-4cd9-8158-0be0231f2e1a" />
 
 
 
