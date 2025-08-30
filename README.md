@@ -30,5 +30,13 @@ Feel free to reach out or follow me on social media:
 
 ● Email:
 
+<img width="1332" height="616" alt="Image" src="https://github.com/user-attachments/assets/6bf8e77c-5e9f-4af9-bd6d-9c6705617d78" />
+
+
+
+
+
+
+
 💡 Template inspired by: (https://flavoriz.framer.website/)
 ## 📷 Preview | Screenshots
