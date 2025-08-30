@@ -1,4 +1,3 @@
-
 # 🌮 FLAVORIZ - Website
 
 A clean homepage built with HTML and CSS, with minimal structure and custom styling.
@@ -30,6 +29,10 @@ Feel free to reach out or follow me on social media:
 
 ● Email:
 
+💡 Template inspired by: (https://flavoriz.framer.website/)
+
+## 📷 Preview | Screenshots
+<img width="1328" height="616" alt="Image" src="https://github.com/user-attachments/assets/2f0e47ff-011c-48a5-b964-20a473c9343a" />
 <img width="1332" height="616" alt="Image" src="https://github.com/user-attachments/assets/6bf8e77c-5e9f-4af9-bd6d-9c6705617d78" />
 
 
@@ -38,5 +41,9 @@ Feel free to reach out or follow me on social media:
 
 
 
-💡 Template inspired by: (https://flavoriz.framer.website/)
-## 📷 Preview | Screenshots
+
+
+
+
+
+
