@@ -23,11 +23,11 @@ Feel free to reach out or follow me on social media:
 
 ● Instagram:
 
-● Linkedin:
+● Linkedin: https://www.linkedin.com/in/amirali-setayeshmehr-8a126b37b/
 
-● Githab:
+● Githab: Amirali-setayeshmehr-dev
 
-● Email:
+● Mail: setayeshmehr@gmail.com
 
 💡 Template inspired by: (https://flavoriz.framer.website/)
 
