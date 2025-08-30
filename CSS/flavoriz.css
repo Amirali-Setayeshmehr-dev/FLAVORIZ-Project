@@ -1137,9 +1137,14 @@ header {
         left: 50px;
         bottom: 50px;
         display: flex;
-        
         justify-content: space-evenly;
         >a{
+            &:hover {
+                >svg{
+                    color: var(--boldText);
+                    scale: 1.2;
+                }
+            }
             >svg {
                 color: #ffffff;
             }
