@@ -15,13 +15,12 @@ Github Pages: https://amirali-setayeshmehr-dev.github.io/FLAVORIZ-Project/
 
 ◈Parnian — https://trainingsitedesign.ir
 
-
 ## 🌠Developer
 Amirali Setayeshmehr
 ## 🔗 Connect with me
 Feel free to reach out or follow me on social media:
 
-● Instagram:
+● Instagram: https://www.instagram.com/setayeshmehr.dev?igsh=MXM2anU3d2l3MDRqYg%3D%3D
 
 ● Linkedin: https://www.linkedin.com/in/amirali-setayeshmehr-8a126b37b/
 
@@ -30,6 +29,8 @@ Feel free to reach out or follow me on social media:
 ● Mail: setayeshmehr@gmail.com
 
 💡 Template inspired by: (https://flavoriz.framer.website/)
+
+⭐Support
 
 ## 📷 Preview | Screenshots
 <img width="1338" height="618" alt="Image" src="https://github.com/user-attachments/assets/695df170-b3a6-40cb-b020-e0442114c377" />
