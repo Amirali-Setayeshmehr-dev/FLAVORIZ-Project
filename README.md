@@ -1,6 +1,6 @@
 # 🌮 FLAVORIZ - Website
 
-A clean homepage built with HTML and CSS, with minimal structure and custom styling.
+A clean homepage built with HTML and CSS, with modern structure and custom styling.
 
 
 ## 🔗 Live Demo
