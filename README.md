@@ -5,7 +5,27 @@ A clean homepage built with HTML and CSS, with minimal structure and custom styl
 
 ## 🔗 Live Demo
 
-Github Pages: https://amirali-setayeshmehr-dev.github.io/FLAVORIZ-Project/
+https://amirali-setayeshmehr-dev.github.io/FLAVORIZ-Project/
+
+## ✨ Highlights 
+
+🚀Modern & Structured Design
+Built with modular components and clean layout principles for maintainability and scalability.
+
+👷🏻‍♂️ Semantic HTML Architecture
+Uses semantic tags like <header>, <nav>, <section>, and <figure> to enhance accessibility and SEO.
+
+🎨 Centralized Styling with CSS Variables
+All colors and design elements are defined in :root, allowing quick and consistent theme updates across the project.
+
+📁 Extendable Component System
+Class naming and layout structure are designed to support easy content expansion, new features, and future enhancements.
+
+⚡ Fast Loading Performance
+Images are manually optimized and resized using photo editing tools, resulting in faster page load times and improved user experience.
+
+🔍 SEO-Ready Foundation
+Images include descriptive alt attributes, headings follow a logical hierarchy, and the layout supports metadata integration.
 ## 🧰 Tech Stack
 ● HTML5
 
@@ -13,10 +33,9 @@ Github Pages: https://amirali-setayeshmehr-dev.github.io/FLAVORIZ-Project/
 ## ❤🙏Credits Instructor / Mentor
 ◈Parsa Ghorbanian — https://www.instagram.com/parsa_ghorbanian_web
 
-◈Parnian — https://trainingsitedesign.ir
+◈Parnian Institute — https://trainingsitedesign.ir
 
-## 🌠Developer
-Amirali Setayeshmehr
+## 💻Developer Amirali Setayeshmehr
 ## 🔗 Connect with me
 Feel free to reach out or follow me on social media:
 
