@@ -1,8 +1,6 @@
 # 🌮 FLAVORIZ - Website
 
-A clean homepage built with HTML and CSS, with modern structure and custom styling.
-
-
+Flavoriz is a clean and elegant recipe landing page , purpose-built for show casing food content
 ## 🔗 Live Demo
 
 https://amirali-setayeshmehr-dev.github.io/FLAVORIZ-Project/
